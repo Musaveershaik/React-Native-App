@@ -4,6 +4,9 @@
 
 This is a **React Native** app using **Expo** for the frontend and **AppWrite** for backend services.
 
+![Uploading Screenshot 2024-10-25 130354.png…]()
+
+
 ## Getting Started
 
 1. **Clone the Repository**

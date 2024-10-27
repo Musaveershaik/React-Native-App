@@ -31,6 +31,8 @@ This is a **React Native** app using **Expo** for the frontend and **AppWrite** 
    npx expo start
    ```
 
+   **Note:** Please include your own AppWrite API configuration in this project to ensure proper functionality of authentication and data management features.
+
    You can choose to open the app on:
    - **Android Emulator**
    - **iOS Simulator**
@@ -52,6 +54,6 @@ This moves starter code to **app-example** and creates a new blank **app** folde
 
 ## Notes
 
-**AppWrite** is used for backend services, including user authentication and data storage. 
+**AppWrite** is used for backend services, including user authentication and data storage.
 
 --- 

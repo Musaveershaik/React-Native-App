@@ -1,4 +1,4 @@
-![Screenshot 2024-10-25 130354](https://github.com/user-attachments/assets/50b8409c-fddd-4744-b350-617d4bd2483c)---
+---
 
 # My Expo App with AppWrite Backend
 

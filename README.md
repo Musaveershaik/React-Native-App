@@ -1,10 +1,11 @@
----
+![Screenshot 2024-10-25 130354](https://github.com/user-attachments/assets/50b8409c-fddd-4744-b350-617d4bd2483c)---
 
 # My Expo App with AppWrite Backend
 
 This is a **React Native** app using **Expo** for the frontend and **AppWrite** for backend services.
 
-![Uploading Screenshot 2024-10-25 130354.png…]()
+
+![Screenshot 2024-10-25 130354](https://github.com/user-attachments/assets/edb3489f-f94c-468f-901e-5ab038d230d7)
 
 
 ## Getting Started
